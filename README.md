@@ -27,7 +27,7 @@
         狀態：4種狀態 -> DEBUG, INFO, WARN, ERROR。不可整份檔案中只有一種狀態  
         動作敘述：4種敘述 -> show debug, run function, out of memory, system crash。不可整份檔案中只有一種敘述  
         狀態與動作敘述，需對應後再隨機輸出  
-        請見下圖範例  
+        請見輸出範例  
 ### 將上面的腳本放置於存放資料的資料夾，並將修改過後的專案推送回 github develope 分支(試驗者Github作為推送目的地)
 
 ## 加分題  
@@ -35,5 +35,5 @@
 ### 請將本專案系統環境之image匯入，並修改tag 為 test  
 ### 啟用flask api server，需透過browser觀察頁面
 --- 
-# 關於本專案
-*** APP [24 Jun 2018:14:23:45 +0000] [DEBUG] "show debug"
+# 輸出範例
+`APP [24 Jun 2018:14:23:45 +0000] [DEBUG] "show debug"`
