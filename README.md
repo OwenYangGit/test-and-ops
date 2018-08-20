@@ -36,4 +36,4 @@
 ### 啟用flask api server，需透過browser觀察頁面
 --- 
 # 關於本專案
-
+*** APP [24 Jun 2018:14:23:45 +0000] [DEBUG] "show debug"
