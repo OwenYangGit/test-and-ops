@@ -38,3 +38,6 @@
 --- 
 # 輸出範例
 `APP [24 Jun 2018:14:23:45 +0000] [DEBUG] "show debug"`
+
+![腳本輸出範例](/images/test-medo.png)
+
