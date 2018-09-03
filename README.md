@@ -32,9 +32,9 @@
         請見輸出範例  
 ### 將上面的腳本放置於存放資料的資料夾，並將修改過後的專案推送回 github develope 分支(試驗者Github作為推送目的地)
 ## 加分題  
-<b>請將本專案系統環境之image匯出</b>  
-<b>請將本專案系統環境之image匯入，並修改tag 為 test</b>  
-<b>啟用flask api server，需透過browser觀察頁面</b>
+- 請將本專案系統環境之image匯出  
+- 請將本專案系統環境之image匯入，並修改tag 為 test  
+- 啟用flask api server，需透過browser觀察頁面
 --- 
 # 輸出範例
 `APP [24 Jun 2018:14:23:45 +0000] [DEBUG] "show debug"`
